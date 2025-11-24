@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Datos descargados
+data_raw/
+data_clean/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Claves
+.env
+
+# Archivos del sistema
+.DS_Store
